@@ -1,6 +1,6 @@
 # Efficient Data Stream Anomaly Detection
 
-# ![Logo](Images/Logo.png)
+#[![Logo](Images/Logo.png)](https://www.youtube.com/watch?v=q89xcGwjkJw)
 
 ## Overview
 This project implements a Python script designed to detect anomalies in a continuous data stream. The simulated data stream represents real-time sequences of floating-point numbers, which could reflect various metrics, such as financial transactions, sensor readings, or system performance metrics. The primary objective is to identify unusual patterns, such as exceptionally high values or significant deviations from expected behavior.
