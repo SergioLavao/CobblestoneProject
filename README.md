@@ -9,7 +9,7 @@ This project implements a Python script designed to detect anomalies in a contin
 ### Anomaly Detection Algorithm
 The system employs a combination of two powerful algorithms:
 - **ADWIN (Adaptive Windowing)**: An adaptive algorithm that detects changes in the data distribution over time, allowing for dynamic adjustment to the model as new data arrives.
-- **S-H-ESD (Seasonal Hybrid Extreme Studentized Deviate)**: A robust statistical method that identifies anomalies in seasonal data, accounting for regular patterns and extreme values.
+- **Z-Score Anomaly Detection**: Statistical method that flags anomalies by measuring how many standard deviations a point deviates from the mean, highlighting unusual values in non-seasonal data.
 
 ### Visualization
 The project includes a straightforward real-time visualization tool that displays:
